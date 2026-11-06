@@ -2,11 +2,11 @@
 
 **Date:** Sunday, Oct 25, 2026 · **Status:** Answered · **Problem 01 of 13** — Daily Architect Problems (CCA prep)
 
-Part of *Daily Architect Problems* — thirteen applied agentic-design problems from Claude Certified Architect (CCA) prep, grounded in a real production support-ticket agent. This folder is self-contained: publish it on its own as its own repo.
+Part of *Daily Architect Problems* — thirteen applied agentic-design problems from Claude Certified Architect (CCA) prep, grounded in a real production agent. This folder is self-contained: publish it on its own as its own repo.
 
 ## The problem
 
-A support-ticket triage pipeline handling 600 tickets a day, with 3x Monday-morning spikes, a 10-minute first-classification SLA, and an $0.08-per-ticket budget. Design triage using parallelization and reflection together: what fans out, where reflection sits, a hard stopping rule, and a fallback for unresolved tickets.
+An agent triaging 600 tickets a day, with 3x Monday-morning spikes, a 10-minute first-classification SLA, and an $0.08-per-ticket budget. Design triage using parallelization and reflection together: what fans out, where reflection sits, a hard stopping rule, and a fallback for unresolved tickets.
 
 ## How to use it
 
