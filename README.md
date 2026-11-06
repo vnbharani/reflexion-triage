@@ -28,3 +28,8 @@ An agent triaging 600 tickets a day, with 3x Monday-morning spikes, a 10-minute 
 - `problem.md` — the full problem statement (scenario, task, self-check)
 - `01_reflection_parallelization.py` — runnable example sketch
 - `her-design-paper.md` — the author's solved design paper (verbatim draft) plus separate feedback
+
+## References
+
+- Shinn, Noah, et al. "Reflexion: Language Agents with Verbal Reinforcement Learning." NeurIPS 2023. arXiv:2303.11366. https://arxiv.org/abs/2303.11366 — the reflection pattern behind this problem; the repo takes its name from it.
+- Gullí, Antonio. *Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems*. Springer, 2025. https://link.springer.com/book/10.1007/978-3-032-01402-3 — the pattern vocabulary this series studies (reflection, parallelization).
