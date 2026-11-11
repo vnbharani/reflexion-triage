@@ -21,13 +21,13 @@ An agent triaging 600 tickets a day, with 3x Monday-morning spikes, a 10-minute 
 
 ## The solved paper
 
-`my-design-paper.md` — my Oct 25 design draft, reproduced verbatim (including voice-dictation quirks), with the feedback it received kept in a separate, clearly labelled section. Read it after you've written your own paper, to compare decisions.
+`reflection-parallelization.md` — my Oct 25 design draft, reproduced verbatim (including voice-dictation quirks), with the feedback it received kept in a separate, clearly labelled section. Read it after you've written your own paper, to compare decisions.
 
 ## Files
 
 - `problem.md` — the full problem statement (scenario, task, self-check)
 - `01_reflection_parallelization.py` — runnable example sketch
-- `my-design-paper.md` — my solved design paper (verbatim draft) plus separate feedback
+- `reflection-parallelization.md` — my solved design paper (verbatim draft) plus separate feedback
 
 ## References
 
