@@ -6,7 +6,7 @@ Part of *Daily Architect Problems* — thirteen applied agentic-design problems 
 
 ## The problem
 
-An agent triaging 600 tickets a day, with 3x Monday-morning spikes, a 10-minute first-classification SLA, and an $0.08-per-ticket budget. Design triage using parallelization and reflection together: what fans out, where reflection sits, a hard stopping rule, and a fallback for unresolved tickets.
+An agent triaging 500 tickets a day, with 3x Monday-morning spikes, a 15-minute first-classification SLA, and an $0.06-per-ticket budget. Design triage using parallelization and reflection together: what fans out, where reflection sits, a hard stopping rule, and a fallback for unresolved tickets.
 
 ## How to use it
 
