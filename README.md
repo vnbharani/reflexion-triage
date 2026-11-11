@@ -1,8 +1,8 @@
 # Reflection + parallelization in a high-volume support-ticket triage pipeline
 
-**Date:** Sunday, Oct 25, 2026 · **Status:** Answered · **Problem 01 of 13** — Daily Architect Problems (CCA prep)
+**Date:** Sunday, Oct 25, 2026 · **Status:** Answered · **Problem 01 of 13** — Daily Architect Problems
 
-Part of *Daily Architect Problems* — thirteen applied agentic-design problems from Claude Certified Architect (CCA) prep, grounded in a real production agent. This folder is self-contained: publish it on its own as its own repo.
+Part of *Daily Architect Problems* — thirteen applied agentic-design problems grounded in a real production agent. This folder is self-contained: publish it on its own as its own repo.
 
 ## The problem
 
